@@ -7,7 +7,6 @@ Motivation
 This code was extracted from the Puzzle C# code example illustrating the Presenter First design pattern, found on the [Atomic Object Software Commons](http://atomicobject.com/pages/Software+Commons)
 and posted to Github (along with a new MIT license) to empower developers to take the code and run with it freely.
 
-SPECIAL THANKS to Matthew Spinelli for spurring us into action to license this code and make it shareable in a proper fashion.
 
 Authors
 =======
@@ -15,3 +14,6 @@ Authors
 * ©20052011 [Atomic Object](http://www.atomicobject.com/)
 * More Atomic Object [open source projects](http://www.atomicobject.com/pages/Software+Commons)
 
+Acknowledgements
+================
+Special Thanks to Matthew Spinelli for spurring us into action to license this code and make it shareable in a proper fashion.
